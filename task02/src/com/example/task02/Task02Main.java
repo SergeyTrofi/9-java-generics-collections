@@ -13,6 +13,7 @@ public class Task02Main {
         list1.add("Z");
         System.out.println("list1: " + list1);
 
+
         SavedList<String> list2 = new SavedList<>(file);
         System.out.println("list2: " + list2);
 
